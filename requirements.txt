@@ -1,0 +1,5 @@
+flask
+flasgger
+marshmallow
+apispec[marshmallow]
+apispec_webframeworks[flask]
